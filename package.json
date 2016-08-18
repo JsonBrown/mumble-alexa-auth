@@ -1,0 +1,17 @@
+{
+  "name": "AVS-auth",
+  "version": "0.0.1",
+  "description": "An example of how to write a companion service for an Alexa Voice Service enabled device",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.12.4",
+    "debug": "~2.2.0",
+    "express": "~4.12.4",
+    "fs": "0.0.2",
+    "lodash": "^3.10.1",
+    "sqlite3": "^3.1.1"
+  }
+}

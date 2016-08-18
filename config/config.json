@@ -1,0 +1,12 @@
+{
+  "port": 9745,
+  "clientId": "amzn1.application-oa2-client.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "clientSecret": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "redirectUrl": "https://localhost:9745/authresponse",
+  "lwaRedirectHost": "amazon.com",
+  "lwaApiHost": "api.amazon.com",
+  "validateCertChain": false,
+  "products": {
+      "XXXXXXXXXXXXXXXXXX": ["XXXXXXXXXXXXXXXX"]
+  }
+}
